@@ -5,7 +5,6 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Solaris | Clean energy for a brighter tomorrow',
   description: 'Solar energy for modern homes. Cut your energy bill by up to 80% with Solaris.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
