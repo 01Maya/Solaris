@@ -8,3 +8,4 @@ It combines a nature-inspired visual identity with a clear content hierarchy and
 ## ✨ Description
 
 Solaris presents solar energy through a minimal and professional interface focused on clarity, sustainability, and homeowner confidence.
+The landing page uses smooth animations, responsive layouts, interactive navigation, and carefully placed visual details to create an engaging experience.
