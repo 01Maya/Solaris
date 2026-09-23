@@ -6,3 +6,5 @@ Solaris is a modern, clean-energy landing page designed to make residential sola
 It combines a nature-inspired visual identity with a clear content hierarchy and conversion-focused user experience.
 
 ## ✨ Description
+
+Solaris presents solar energy through a minimal and professional interface focused on clarity, sustainability, and homeowner confidence.
