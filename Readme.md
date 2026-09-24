@@ -1,4 +1,4 @@
-# ☀️ Solaris - Clean Energy Landing Page
+# ☀️ Solaris - Clean Energy Landing Page ✨
 
 ## 🌿 Overview
 
