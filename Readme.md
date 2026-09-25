@@ -26,3 +26,4 @@ From the hero section to the FAQ and final CTA, every section is designed to gui
 * 🌿 **Decorative Leaves** — Subtle botanical elements reinforce the clean-energy visual identity.
 * 🖱️ **Hover Effects** — Interactive hover states on buttons, cards, images, and navigation elements.
 * 🔢 **Counting Stats Animation** — Statistics animate smoothly when they enter the viewport.
+* ✨ **Mouse Spark Effect** — A subtle spark interaction appears on mouse clicks for an engaging visual detail.
