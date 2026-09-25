@@ -19,3 +19,5 @@ From the hero section to the FAQ and final CTA, every section is designed to gui
 ---
 
 ## 🚀 Features
+
+* 📱 **Fully Responsive** — Optimized for desktop, tablet, and mobile screens.
