@@ -23,3 +23,4 @@ From the hero section to the FAQ and final CTA, every section is designed to gui
 * 📱 **Fully Responsive** — Optimized for desktop, tablet, and mobile screens.
 * ✨ **Smooth Animations** — Elegant scroll reveals, transitions, and section animations.
 * 🧭 **Section Navigation** — Smooth navigation-to-section scrolling with a sticky navbar.
+* 🌿 **Decorative Leaves** — Subtle botanical elements reinforce the clean-energy visual identity.
