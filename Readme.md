@@ -29,4 +29,4 @@ From the hero section to the FAQ and final CTA, every section is designed to gui
 * ✨ **Mouse Spark Effect** — A subtle spark interaction appears on mouse clicks for an engaging visual detail.
 * 🧩 **Interactive FAQ** — Expandable FAQ items with smooth accordion animations.
 * 🎯 **Clear CTAs** — Strategically placed "Get Free Quote" actions throughout the experience.
-* **Responsive Imagery** — Solar and nature imagery adapt cleanly across screen sizes.
+* 🖼️ **Responsive Imagery** — Solar and nature imagery adapt cleanly across screen sizes.
