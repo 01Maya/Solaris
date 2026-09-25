@@ -25,3 +25,4 @@ From the hero section to the FAQ and final CTA, every section is designed to gui
 * 🧭 **Section Navigation** — Smooth navigation-to-section scrolling with a sticky navbar.
 * 🌿 **Decorative Leaves** — Subtle botanical elements reinforce the clean-energy visual identity.
 * 🖱️ **Hover Effects** — Interactive hover states on buttons, cards, images, and navigation elements.
+* 🔢 **Counting Stats Animation** — Statistics animate smoothly when they enter the viewport.
