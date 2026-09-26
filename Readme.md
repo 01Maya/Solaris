@@ -33,3 +33,6 @@ From the hero section to the FAQ and final CTA, every section is designed to gui
 * 🎨 **Consistent Visual System** — Controlled green, cream, white, and dark text palette throughout the website.
 
 ---
+
+
+## 📌 Sections
