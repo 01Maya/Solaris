@@ -36,3 +36,5 @@ From the hero section to the FAQ and final CTA, every section is designed to gui
 
 
 ## 📌 Sections
+
+* **Navbar** — Sticky navigation with smooth section links and a primary quote CTA.
