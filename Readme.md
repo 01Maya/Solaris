@@ -39,3 +39,4 @@ From the hero section to the FAQ and final CTA, every section is designed to gui
 
 * **Navbar** — Sticky navigation with smooth section links and a primary quote CTA.
 * **Hero** — Clear solar-energy value proposition with primary and secondary actions.
+* **About Us** — Introduces Solaris and communicates its clean-energy mission and benefits.
