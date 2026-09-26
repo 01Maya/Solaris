@@ -31,3 +31,5 @@ From the hero section to the FAQ and final CTA, every section is designed to gui
 * 🎯 **Clear CTAs** — Strategically placed "Get Free Quote" actions throughout the experience.
 * 🖼️ **Responsive Imagery** — Solar and nature imagery adapt cleanly across screen sizes.
 * 🎨 **Consistent Visual System** — Controlled green, cream, white, and dark text palette throughout the website.
+
+---
