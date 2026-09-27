@@ -40,3 +40,4 @@ It combines a nature-inspired visual identity with a clear content hierarchy and
 * **Navbar** — Sticky navigation with smooth section links and a primary quote CTA.
 * **Hero** — Clear solar-energy value proposition with primary and secondary actions.
 * **About Us** — Introduces Solaris and communicates its clean-energy mission and benefits.
+* **Our Services** — Highlights the core benefits of solar energy through image-based cards.
