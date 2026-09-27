@@ -41,3 +41,4 @@ It combines a nature-inspired visual identity with a clear content hierarchy and
 * **Hero** — Clear solar-energy value proposition with primary and secondary actions.
 * **About Us** — Introduces Solaris and communicates its clean-energy mission and benefits.
 * **Our Services** — Highlights the core benefits of solar energy through image-based cards.
+* **How It Works** — Explains the solar journey through a simple four-step process.
