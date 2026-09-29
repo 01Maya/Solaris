@@ -44,5 +44,6 @@ It combines a nature-inspired visual identity with a clear content hierarchy and
 * **How It Works** — Explains the solar journey through a simple four-step process.
 * **CTA** — Encourages visitors to request a free, no-obligation solar quote.
 * **FAQ** — Answers common solar questions through an interactive accordion.
-
+* **Footer** — Provides branding, navigation links, social links, and copyright information.
+* 
 ---
