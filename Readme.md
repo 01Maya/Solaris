@@ -43,5 +43,6 @@ It combines a nature-inspired visual identity with a clear content hierarchy and
 * **Our Services** — Highlights the core benefits of solar energy through image-based cards.
 * **How It Works** — Explains the solar journey through a simple four-step process.
 * **CTA** — Encourages visitors to request a free, no-obligation solar quote.
+* **FAQ** — Answers common solar questions through an interactive accordion.
 
 ---
