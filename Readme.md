@@ -51,3 +51,4 @@ It combines a nature-inspired visual identity with a clear content hierarchy and
 ## 🛠️ Tech Stack
 
 * **Next.js**
+* **Tailwind CSS**
