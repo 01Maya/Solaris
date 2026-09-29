@@ -45,5 +45,7 @@ It combines a nature-inspired visual identity with a clear content hierarchy and
 * **CTA** — Encourages visitors to request a free, no-obligation solar quote.
 * **FAQ** — Answers common solar questions through an interactive accordion.
 * **Footer** — Provides branding, navigation links, social links, and copyright information.
-* 
+  
 ---
+
+## 🛠️ Tech Stack
