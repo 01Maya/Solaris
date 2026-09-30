@@ -53,7 +53,7 @@ It combines a nature-inspired visual identity with a clear content hierarchy and
 * **Next.js**
 * **Tailwind CSS**
 * **Framer Motion**
-* **shadcn/ui**
+* **Shadcn/ui**
 
 ---
 
