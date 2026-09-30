@@ -66,3 +66,5 @@ https://solaris-01.vercel.app/
 ## 🖼️ Screenshot
 
 ---
+
+## ⚙️ How to Install
