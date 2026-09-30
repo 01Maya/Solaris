@@ -68,3 +68,5 @@ https://solaris-01.vercel.app/
 ---
 
 ## ⚙️ How to Install
+
+### 1. Clone the Repository
