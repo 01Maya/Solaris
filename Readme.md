@@ -54,3 +54,5 @@ It combines a nature-inspired visual identity with a clear content hierarchy and
 * **Tailwind CSS**
 * **Framer Motion**
 * **shadcn/ui**
+
+---
