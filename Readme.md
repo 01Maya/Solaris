@@ -80,3 +80,5 @@ git clone <your-repository-url>
 ```bash
 cd solaris
 ```
+### 3. Install Dependencies
+
