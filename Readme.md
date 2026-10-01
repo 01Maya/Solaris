@@ -77,3 +77,6 @@ git clone <your-repository-url>
 
 ### 2. Navigate to the Project
 
+```bash
+cd solaris
+```
