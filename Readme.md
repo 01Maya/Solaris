@@ -74,3 +74,6 @@ https://solaris-01.vercel.app/
 ```bash
 git clone <your-repository-url>
 ```
+
+### 2. Navigate to the Project
+
