@@ -82,3 +82,6 @@ cd solaris
 ```
 ### 3. Install Dependencies
 
+```bash
+npm install
+```
