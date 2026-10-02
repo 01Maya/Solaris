@@ -94,3 +94,8 @@ npm run dev
 
 ### 5. Open the Project
 
+Visit:
+
+```text
+http://localhost:3000
+```
