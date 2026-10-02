@@ -85,3 +85,6 @@ cd solaris
 ```bash
 npm install
 ```
+
+### 4. Start the Development Server
+
