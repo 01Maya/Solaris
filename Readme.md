@@ -99,3 +99,9 @@ Visit:
 ```text
 http://localhost:3000
 ```
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
