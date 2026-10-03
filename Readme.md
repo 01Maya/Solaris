@@ -113,3 +113,6 @@ npm start
 ```
 
 ---
+
+## 📄 License
+
