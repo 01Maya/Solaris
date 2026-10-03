@@ -108,3 +108,6 @@ npm run build
 
 Then start the production build:
 
+```bash
+npm start
+```
