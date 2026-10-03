@@ -65,6 +65,8 @@ https://solaris-01.vercel.app/
 
 ## 🖼️ Screenshot
 
+<img width="2403" height="4860" alt="Image" src="https://github.com/user-attachments/assets/ad31211c-f5ef-4fdd-96c1-33a06a4323a3" />
+
 ---
 
 ## ⚙️ How to Install
