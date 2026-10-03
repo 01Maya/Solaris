@@ -105,3 +105,6 @@ http://localhost:3000
 ```bash
 npm run build
 ```
+
+Then start the production build:
+
