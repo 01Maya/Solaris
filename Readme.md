@@ -116,3 +116,4 @@ npm start
 
 ## 📄 License
 
+This project is created for portfolio and demonstration purposes.
